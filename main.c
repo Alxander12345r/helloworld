@@ -1,2 +1,5 @@
 main() {
+
+printf("helloworld");
 }
+getch();
